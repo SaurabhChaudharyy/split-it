@@ -1,3 +1,6 @@
-requirements.txt
-config.py
-venv/
+backend/config.py
+backend/venv/
+frontend/.expo
+frontend/node_modules
+frontend/package-lock.json
+.idea
